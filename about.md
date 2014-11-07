@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am pursuing by masters degree in computer sciences at the University of Vienna, Austria. I am also working there as a software developer at the [Research Group Scientific Computing], where I am part of the european [VPH-Share] project. My main interests are modern Java development, micro-services and data integration.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+In my free time I enjoy reading, skiing, running and having a good time with my friends.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chris.borckholder@gmail.com](mailto:chris.borckholder@gmail.com)
+
+[Research Group Scientific Computing]: http://cs.univie.ac.at/research/research-groups/scientific-computing/
+[VPH-Share]: http://vph-share.eu/ 
