@@ -8,11 +8,18 @@ layout: default
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      {% if post.content.size > 450 %}
       <div class="entry">
-        {{ post.content | truncatewords:40}}
+        {{ post.content | truncatewords:40 }}
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% else %}
+      <div class="entry">
+        {{ post.content }}
+      </div>
+      {% endif %}      
+     
     </article>
   {% endfor %}
 </div>

@@ -1,19 +1,7 @@
-#
-# This file contains configuration flags to customize your site
-#
 
-# Name of your site (displayed in the header)
 name: pyranja
-
-# Short bio or description (displayed in the header)
 description: Student. Developer. Chris.
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://gravatar.com/avatar/ca9215e278ff7a0dcd81370fc85c011f
-
-#
-# Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -45,16 +33,16 @@ url: pyranja.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
+
+# mirror github pages settings
+safe: true
+lsi: false
 
 # Set the Sass partials directory, as we're using @imports
 sass:
