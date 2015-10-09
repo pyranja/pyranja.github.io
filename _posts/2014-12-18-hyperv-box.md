@@ -26,7 +26,7 @@ You can increase the cpu count in the VM settings. Assigned memory and cpu count
 
 ## Install CentOs 6.6
 
-I recommend using this [kickstart script][https://github.com/pyranja/vbox-centos6-hyperv/blob/master/ks.cfg] to automate the installation, but you can of course perform a manual installation, detailled instructions are available [here][CentOs-install]. Set the root password to "vagrant", if you want to publish the box later.
+I recommend using this [kickstart script][https://github.com/pyranja/vbox-centos6-hyperv/blob/master/ks.cfg] to automate the installation, but you can of course perform a manual installation, detailed instructions are available [here][CentOs-install]. Set the root password to "vagrant", if you want to publish the box later.
 
 To provide some guidance I will explain the most important settings and post-installation steps.
 
