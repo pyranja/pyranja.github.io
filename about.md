@@ -35,5 +35,5 @@ Vienna, Austria
 [chris.borckholder@gmail.com](mailto:chris.borckholder@gmail.com)
 
 [Research Group Scientific Computing]: http://cs.univie.ac.at/research/research-groups/scientific-computing/
-[VPH-Share]: http://vph-share.eu/
+[VPH-Share]: http://www.vph-share.eu/
 [CCL]: http://creativecommons.org/licenses/by/4.0/
